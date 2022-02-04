@@ -1,3 +1,5 @@
+//! <https://leetcode.com/problems/two-sum/>
+//!
 //! Given an array of integers `nums` and an integer `target`,
 //! return _indices of the two numbers such that they add up to `target`_.
 //!
@@ -13,8 +15,6 @@
 //! * **Only one valid answer exists.**
 //!
 //! **Follow-up**: Can you come up with an algorithm that is less than `O(n^2)` time complexity?
-//!
-//! <https://leetcode.com/problems/two-sum/>
 use std::collections::HashMap;
 
 pub struct Solution;
