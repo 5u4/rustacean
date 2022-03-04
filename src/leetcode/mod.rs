@@ -1,4 +1,5 @@
 pub mod coin_change;
+pub mod container_with_most_water;
 pub mod generate_parentheses;
 pub mod jump_game;
 pub mod kth_largest_element_in_an_array;
