@@ -7,6 +7,7 @@ pub mod container_with_most_water;
 pub mod generate_parentheses;
 pub mod jump_game;
 pub mod kth_largest_element_in_an_array;
+pub mod letter_combinations_of_a_phone_number;
 pub mod median_of_two_sorted_arrays;
 pub mod min_stack;
 pub mod number_of_islands;
