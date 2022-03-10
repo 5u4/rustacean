@@ -12,6 +12,7 @@ pub mod median_of_two_sorted_arrays;
 pub mod min_stack;
 pub mod number_of_islands;
 pub mod two_sum;
+pub mod validate_binary_search_tree;
 
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
