@@ -2,6 +2,7 @@ use std::cell::RefCell;
 use std::rc::Rc;
 
 pub mod binary_tree_zigzag_level_order_traversal;
+pub mod boats_to_save_people;
 pub mod coin_change;
 pub mod container_with_most_water;
 pub mod generate_parentheses;
