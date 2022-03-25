@@ -12,6 +12,7 @@ pub mod letter_combinations_of_a_phone_number;
 pub mod median_of_two_sorted_arrays;
 pub mod min_stack;
 pub mod number_of_islands;
+pub mod two_city_scheduling;
 pub mod two_sum;
 pub mod validate_binary_search_tree;
 
