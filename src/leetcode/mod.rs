@@ -15,6 +15,7 @@ pub mod number_of_islands;
 pub mod the_k_weakest_rows_in_a_matrix;
 pub mod two_city_scheduling;
 pub mod two_sum;
+pub mod valid_palindrome_ii;
 pub mod validate_binary_search_tree;
 
 #[derive(Debug, PartialEq, Eq)]
